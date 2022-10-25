@@ -1,6 +1,21 @@
 {
-    "01": "Git Bash",
-    "02": "Client Server Model",
-    "03": "GitHub repository",
-    "04": "API testing in Postman"
-}
+    "01": "Basic theory. SDLC, STLC.",
+    "02": "What is a client-server architecture.",
+    "03": "HTTP request methods to the server and response codes.",
+    "04": "Structures of HTTP requests and responses.",
+    "05": "What is JSON, XML. Their structure.",
+    "06": "API testing via Postman (JS, API autotests).",
+    "07": "Removing and reading logs from an external server.",
+    "08": "Dev Tools of web browsers (Google Chrome).",
+    "09": "VPN (How it works, why you need it, how to use it, tool options)",
+    "10": "Mobile testing.",
+    "11": "Feature iOS, Android, guidelines.",
+    "12": "Building Android applications on Android Studio.",
+    "13": "ADB (android device management).",
+    "14": "Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface).",
+    "15": "Basics of bash scripting, automation of routine tasks on the server.",
+    "16": "Access to remote servers.",
+    "17": "SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join).",
+    "18": "Database Postgres (installation, configuration and use).",
+    "19": "Scrum development methodology."
+ }
