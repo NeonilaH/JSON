@@ -34,8 +34,8 @@
 {
       "favourite_movie": "None",
       "favourite_tv_series": "None",
-      "favourite_food": "ice cream",
-      "favourite_season": "summer",
+      "favourite_food": "Ice cream",
+      "favourite_season": "Summer",
       "country_you_would_like_to_visit": "Thailand"
 }
 ```
@@ -82,7 +82,7 @@
 ---> Go to the pencil button `Edit this file`
 ```json
 {
-    "Bug_id": "111",
+    "Bug_id": "1111",
     "Title": "Missing white lines on the widget",
     "Severity": "Major",
     "Priority": "Medium",
