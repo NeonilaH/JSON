@@ -26,7 +26,7 @@
  8. Push changes to an external repository.
 - `git commit -m "add changes"`
 ---> `git push`
- 9. Create preferences.json file
+ 9. Create preferences.json file.
 - `touch preferences.json`
  10. In the preferences.json file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in JSON format.
 - `nano new.json`
