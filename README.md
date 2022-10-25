@@ -40,7 +40,7 @@
 }
 ```
  11. Create a file sklls.json and add information about the skills that will be studied on the course in JSON format.
- - `nano new.json`
+ - `nano skills.json`
  ```json
 {
     "01": "Basic theory. SDLC, STLC.",
