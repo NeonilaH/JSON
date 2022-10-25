@@ -39,7 +39,7 @@
       "country_you_would_like_to_visit": "Thailand"
 }
 ```
- 11. Create a file sklls.json add information about the skills that will be studied on the course in JSON format.
+ 11. Create a file sklls.json and add information about the skills that will be studied on the course in JSON format.
  - `nano new.json`
  ```json
 {
